@@ -1,0 +1,2 @@
+﻿"Country Code","Region","IncomeGroup","SpecialNotes","TableName",
+"CYP","Europe & Central Asia","High income","A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate entered into force on January 1, 2008: 1 euro = 0.585274 Cyprus pounds. Please note that historical data are not actual euros and are not comparable or suitable for aggregation across countries.","Cyprus",
